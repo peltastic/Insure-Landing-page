@@ -1,0 +1,14 @@
+{
+  "name": "Pelumi",
+  "version": "1.0.0",
+  "description": "FrontEnd project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
